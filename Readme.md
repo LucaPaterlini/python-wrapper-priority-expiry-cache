@@ -1,4 +1,4 @@
-# Priority-expiry-cache [![codecov](https://codecov.io/gh/LucaPaterlini/python-wrapper-priority-expiry-cache/graph/badge.svg?token=GIJFVWT7NC)](https://codecov.io/gh/LucaPaterlini/priority-expiry-cache)
+# Priority-expiry-cache 
 
 ## Wrapper of the rust [cargo](https://crates.io/crates/priority-expiry-cache) 
 
